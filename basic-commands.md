@@ -8,3 +8,10 @@ mkdir <directory-name> - make directory
 
 touch - make files
 
+git init - initialize empty Git repository
+
+git add . - add all changes
+
+-m " " - message
+
+git commit - commit to Git
